@@ -1,2 +1,1 @@
-print ("Hola Mundo")
-pycheck template sum
+print ("Hello world")

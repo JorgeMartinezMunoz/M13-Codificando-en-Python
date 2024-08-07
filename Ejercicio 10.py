@@ -13,5 +13,5 @@ def age_interval(age):
 age = 10
 print(age_interval(age))  # Output: ('9.00', '11.00')
 
-age = 25
+age = 35
 print(age_interval(age))  # Output: ('19.50', '36.00')
